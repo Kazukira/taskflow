@@ -58,11 +58,10 @@ Docker Compose manages the frontend, backend, and database services. Nginx serve
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/taskflow.git
+git clone https://github.com/Kazukira/taskflow.git
 cd taskflow
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Configure environment variables
 
